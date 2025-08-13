@@ -1,6 +1,6 @@
 ---
 
-# Python_Fundamentals
+# <p align="center"> Programming Fundamentals using Python </p>
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)  
 ![License](https://img.shields.io/badge/License-GPLv3-green)  
